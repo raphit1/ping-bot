@@ -1,0 +1,17 @@
+{
+  "name": "discord-role-ping-bot",
+  "version": "1.0.0",
+  "description": "Un bot Discord qui ping les membres sans rôle dans un salon spécifique.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["discord", "bot", "roles", "ping"],
+  "author": "TonNom",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
